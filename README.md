@@ -22,7 +22,7 @@ pm2 startup
 ## Config
 
 ### CORS
-please change the allowable cors domain in [index.js](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/index.js) 
+please change the allowable cors domain in [cors.config.js](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/config/cors.config.js) 
 
 ![](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/aset/aset1.png?raw=true) 
 
