@@ -17,7 +17,6 @@ npm install
 npm install -g pm2
 pm2 start index.js --name "blog-crud"
 pm2 startup
-
 ```
 
 ## Result API
