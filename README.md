@@ -19,5 +19,18 @@ pm2 start index.js --name "blog-crud"
 pm2 startup
 ```
 
+## Config
+
+### CORS
+please change the allowable cors domain in [index.js](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/index.js) 
+
+![](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/aset/aset1.png?raw=true) 
+
+### Database 
+and change the mongooDB database config in [db.config.js](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/config/db.config.js) 
+
+![](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/aset/aset2.png?raw=true) 
+
+
 ## Result API
-![](https://raw.githubusercontent.com/risqikhoirul/Blog-ExpressApi-MongooDB/master/download%20(4).png)
+![](https://github.com/risqikhoirul/Blog-ExpressApi-MongooDB/blob/master/aset/aset3.png?raw=true)
